@@ -8,10 +8,10 @@ It scans the article content, calculates the word count, and inserts a badge rig
 
 ## Features
 
-- ⏱️ Estimates reading time (based on ~200 words per minute)
-- 📰 Supports multiple article formats (e.g., `<article>`, `#mw-content-text`, `.entry-content`, `main`, etc.)
-- 📌 Automatically inserts badge after title or at top of content
-- 🌐 Runs on every webpage you visit
+- Estimates reading time (based on ~200 words per minute)
+- Supports multiple article formats (e.g., `<article>`, `#mw-content-text`, `.entry-content`, `main`, etc.)
+- Automatically inserts badge after title or at top of content
+- Runs on every webpage you visit
 
 ---
 
