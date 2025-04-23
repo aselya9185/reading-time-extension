@@ -17,7 +17,7 @@ It scans the article content, calculates the word count, and inserts a badge rig
 
 ## How to Use
 
-1. Clone the repo or [download the ZIP](https://github.com/YOUR_USERNAME/reading-time-badge-chrome-extension).
+1. Clone the repo.
 2. Go to `chrome://extensions/` in your browser.
 3. Enable **Developer mode** (top right).
 4. Click **Load unpacked** and select the folder.
