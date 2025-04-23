@@ -1,0 +1,19 @@
+# Ignore JetBrains/IDEA project files
+.idea/
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Node.js modules (if you use npm later)
+node_modules/
+
+# Logs
+*.log
+
+# VSCode settings (optional, depending on your editor)
+.vscode/
+
+# Build/output folders (if any)
+dist/
+build/
